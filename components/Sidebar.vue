@@ -31,7 +31,7 @@
               d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z"
             />
           </svg>
-          <NuxtLink to="#" no-prefetch class="ml-2">Cockpit</NuxtLink>
+          <NuxtLink to="/" no-prefetch class="ml-2">Cockpit</NuxtLink>
         </li>
         <li
           class="flex py-2"
@@ -75,7 +75,7 @@
               d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
             />
           </svg>
-          <NuxtLink to="#" no-prefetch class="ml-2">My Investments</NuxtLink>
+          <NuxtLink to="/" no-prefetch class="ml-2">My Investments</NuxtLink>
         </li>
       </ul>
     </div>
@@ -104,7 +104,7 @@
               d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
             />
           </svg>
-          <NuxtLink to="#" no-prefetch class="ml-2">Knowledge Center</NuxtLink>
+          <NuxtLink to="/" no-prefetch class="ml-2">Knowledge Center</NuxtLink>
         </li>
         <li
           class="flex py-2"
@@ -125,7 +125,7 @@
               d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"
             />
           </svg>
-          <NuxtLink to="#" no-prefetch class="ml-2">Venture Pool</NuxtLink>
+          <NuxtLink to="/" no-prefetch class="ml-2">Venture Pool</NuxtLink>
         </li>
         <li
           class="flex py-2"
@@ -146,7 +146,7 @@
               d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"
             />
           </svg>
-          <NuxtLink to="#" no-prefetch class="ml-2">Fee Model</NuxtLink>
+          <NuxtLink to="/" no-prefetch class="ml-2">Fee Model</NuxtLink>
         </li>
       </ul>
     </div>
