@@ -47,5 +47,6 @@ export default {
   },
 
   //deployment
-  target: 'static'
+  target: 'static',
+  ssr: true
 }
