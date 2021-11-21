@@ -186,7 +186,7 @@
 export default {
   data() {
     return {
-      selectedLink: "cockpit",
+      selectedLink: "investment",
     };
   },
   methods: {
